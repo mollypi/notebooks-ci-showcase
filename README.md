@@ -1,4 +1,6 @@
 ## Note
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/9ccde9f3-f9cf-4392-aa24-4b219eef6f1f.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/notebooks-ci-showcase?orgId=561911742905)  
 For **latest** version of this project please take a look [here](https://github.com/GoogleCloudPlatform/ai-platform-samples/tree/master/notebooks/tools/notebooks-ci-showcase)
 
 # Fully Configured Example of CI/CD for Notebooks on Top of Google Cloud Platform
